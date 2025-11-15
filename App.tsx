@@ -1,5 +1,5 @@
 import React, { useState, useCallback, useRef, useEffect } from 'react';
-import { ImageUploader } from './components/ImageUploader';
+import { ImageUploader } from './ImageUploader';
 import { dressModel, changeBackground } from './services/geminiService';
 import { Base64File, fileToBase64 } from './utils/fileUtils';
 import { SparkleIcon, LoadingIcon, UndoIcon, RedoIcon, DownloadIcon } from './components/icons';
