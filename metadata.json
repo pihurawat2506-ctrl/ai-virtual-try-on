@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Virtual Try-On",
+  "description": "An application that uses AI to dress a model from one picture with clothes from another picture. Upload an image of a person and an image of an outfit to see the virtual try-on."
+}
